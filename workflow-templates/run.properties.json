@@ -1,6 +1,6 @@
 {
     "name": "SHC-Robotics Organization Python Evaluation Workflow",
-    "description": "A complete Python Linting Evaluation Template",
+    "description": "A complete Python Linting Evaluation Template specifically for machine learning",
     "iconName": "code",
     "categories": [
         "Python",
