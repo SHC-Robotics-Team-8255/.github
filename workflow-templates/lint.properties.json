@@ -1,0 +1,9 @@
+{
+    "name": "SHC-Robotics Organization Python Linting Workflow",
+    "description": "A complete Python Linting Workflow Template",
+    "iconName": "code",
+    "categories": [
+        "Python",
+        "Lint"
+    ]
+}
